@@ -1,8 +1,0 @@
-C:\Users\0133752\Documents\Visual Studio 2013\Projects\CreateTrainData\Release\data\0.jpg 83 259 494 241
-C:\Users\0133752\Documents\Visual Studio 2013\Projects\CreateTrainData\Release\data\1.jpg 125 295 730 280
-C:\Users\0133752\Documents\Visual Studio 2013\Projects\CreateTrainData\Release\data\2.jpg 52 348 411 267
-C:\Users\0133752\Documents\Visual Studio 2013\Projects\CreateTrainData\Release\data\3.jpg 43 333 777 303
-C:\Users\0133752\Documents\Visual Studio 2013\Projects\CreateTrainData\Release\data\4.jpg 352 368 590 213
-C:\Users\0133752\Documents\Visual Studio 2013\Projects\CreateTrainData\Release\data\5.jpg 279 386 637 243
-C:\Users\0133752\Documents\Visual Studio 2013\Projects\CreateTrainData\Release\data\6.jpg 358 344 705 291
-C:\Users\0133752\Documents\Visual Studio 2013\Projects\CreateTrainData\Release\data\7.jpg 0 0 0 0
